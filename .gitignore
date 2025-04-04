@@ -1,7 +1,3 @@
-**/*.dart
-**/*.js
-**/*.json
-**/*.yaml
-**/*.yml
-**/*.lock
-**/*.dart_tool
+# https://dart.dev/guides/libraries/private-files
+# Created by `dart pub`
+.dart_tool/
